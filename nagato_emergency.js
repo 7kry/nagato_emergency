@@ -63,3 +63,5 @@ function nagato_emergency(id, duration, ok, cancel, message){
 			};
 	})(0);
 }
+
+// Tribute to dear Yuki NAGATO
