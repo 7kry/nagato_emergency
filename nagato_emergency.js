@@ -1,4 +1,4 @@
-function dspr_terminal(id, duration, ok, cancel, message){
+function nagato_emergency(id, duration, ok, cancel, message){
 	var htmlesc = function(c){
 		switch(c){
 		case "&":
