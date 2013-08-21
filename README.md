@@ -9,7 +9,7 @@ nagato_emergency.js
 
 どうやってつかうの?
 ---------------
-1. <head>内で<script>で読み込む。
+1. head要素内でscript要素で読み込む。
 2. onLoadで呼び出す。
 
 dspr_terminalの引数は以下のようになっている。
