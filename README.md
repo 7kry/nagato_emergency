@@ -12,7 +12,7 @@ nagato_emergency.js
 1. head要素内でscript要素で読み込む。
 2. onLoadで呼び出す。
 
-dspr_terminalの引数は以下のようになっている。
+nagato_emergency関数の引数は以下のようになっている。
 
 id:         文字列を流し込む要素のid属性
 
